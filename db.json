@@ -4,6 +4,6 @@
     { "id": 2, "cedula": "0940975448", "nombres": "Pepito Juan", "apellidos": "Rodriguez Alvarez", "celular": "0999999999", "correo": "pepito.j@localhost.com" }    
   ],
   "user": [
-    { "id": 1, "usuario": "user1", "clave": "1234" },
-    { "id": 2, "usuario": "user2", "clave": "1234" }
+    { "id": 1, "usuario": "user1", "clave": "Clavesegura012" },
+    { "id": 2, "usuario": "user2", "clave": "Clavesegura012" }
 ]}
